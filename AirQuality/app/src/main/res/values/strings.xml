@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AirQuality</string>
+    <string name="check_time">측정시간</string>
+    <string name="AQIUS">대기질 지수</string>
+    <string name="AQICN">대기질 지수(중국)</string>
+</resources>
